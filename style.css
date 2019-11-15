@@ -16,3 +16,8 @@ figcaption {
   font-size: 12px;
   text-align: center;
 }
+
+figure#featured-property p {
+  width: 800px;
+  text-align: justify;
+}
