@@ -5,13 +5,14 @@ body {
 }
 
 h1 {text-align: center;}
-figure {text-align: center;}
+figure {text-align: center;
+  font-size: 100;}
 nav {text-align:center;}
 nav a {
   padding: 10px;
   color: rgb(200,150,75);
 }
 
-figure figcaption {
+/*figure figcaption {
   font-size: 100;
-}
+}*/
