@@ -5,4 +5,4 @@ body {
 }
 
 h1 {text-align: center;}
-section#featured-property > figure {align-items: center;}
+section#featured-property {align-items: center;}
